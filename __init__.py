@@ -1,0 +1,3 @@
+from subModules import parseUflexDatalogClass
+from subModules import parseVlctDatalogClass
+from subModules import compareVlctUflexDatalogsClass
